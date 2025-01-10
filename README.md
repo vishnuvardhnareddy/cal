@@ -1,4 +1,4 @@
-# Event Scheduler App
+# Calendar App
 
 This is an Event Scheduler App built using **React** and **Vite**. The app allows users to view, add, edit, and delete events for selected days on a calendar. The calendar grid allows navigation through months, and users can manage their events efficiently through a clean and modern interface.
 
@@ -18,6 +18,6 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/your-username/event-scheduler.git
 
-cd event-scheduler
+cd  Calendar App
 npm install
 npm run dev
